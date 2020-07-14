@@ -1,6 +1,6 @@
 # wixtoolset-doc
 
-![linter](https://github.com/63isOK/wixtoolset-doc/workflows/stack-linter/badge.svg)
+![linter](https://github.com/63isOK/wixtoolset-doc/workflows/linter/badge.svg)
 
 记录一下wixtoolset的学习笔记.
 
