@@ -16,5 +16,6 @@
 - wip,[链式安装](/posts/bundle.md)
 - 教程
   - [文件](/posts/file.md)
+    - 不是产品版本,[检测指定版本的文件](/posts/file-version.md)
   - wip,[快捷方式](/posts/shortcut.md)
   - [注册表](/posts/reg.md)
