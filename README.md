@@ -13,3 +13,8 @@
   - [预处理](/posts/preprocessor.md)
   - [candle/light/heat](/posts/my-tools.md)
 - 界面[ui](/posts/ui.md)
+- wip,[链式安装](/posts/bundle.md)
+- 教程
+  - [文件](/posts/file.md)
+  - wip,[快捷方式](/posts/shortcut.md)
+  - [注册表](/posts/reg.md)
