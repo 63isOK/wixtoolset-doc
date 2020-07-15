@@ -18,5 +18,6 @@
   - [文件](/posts/file.md)
     - 不是产品版本,[检测指定版本的文件](/posts/file-version.md)
   - [开始菜单上的快捷方式](/posts/shortcut.md)
-  - [指向网页的快捷方式](/posts/shortcut-web.md)
+    - [指向网页的快捷方式](/posts/shortcut-web.md)
+    - [卸载的快捷方式](/posts/shortcut-uninstall.md)
   - [注册表](/posts/reg.md)
