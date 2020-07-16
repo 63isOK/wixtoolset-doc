@@ -20,4 +20,6 @@
   - [开始菜单上的快捷方式](/posts/shortcut.md)
     - [指向网页的快捷方式](/posts/shortcut-web.md)
     - [卸载的快捷方式](/posts/shortcut-uninstall.md)
+  - Ngen做托管程序集,任务中不会用到,wip
+  - 如何[引用另一个目录的元素](/posts/directory-search.md)
   - [注册表](/posts/reg.md)
