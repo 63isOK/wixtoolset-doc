@@ -23,4 +23,5 @@
   - Ngen做托管程序集,任务中不会用到,wip
   - 如何[引用另一个目录的元素](/posts/directory-search.md)
     - 如何[获取FileSearch的父目录](/posts/directory-parent.md)
-  - [注册表](/posts/reg.md)
+  - [读注册表](/posts/reg-read.md)
+    - [写注册表](/posts/reg-write.md)
