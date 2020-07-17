@@ -27,3 +27,4 @@
     - [写注册表](/posts/reg-write.md)
   - 发行包,os版本/基于注册表的链式安装/.net版本/directx9.0/c++运行库
   - [c++运行库](/posts/cpp.md)
+  - [本地化](/posts/localizable.md)
