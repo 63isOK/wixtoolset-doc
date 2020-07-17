@@ -28,3 +28,5 @@
   - 发行包,os版本/基于注册表的链式安装/.net版本/directx9.0/c++运行库
   - [c++运行库](/posts/cpp.md)
   - [本地化](/posts/localizable.md)
+  - [图标设置](/posts/icon.md)
+  - 安装后拉起,暂不需要,wip
