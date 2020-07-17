@@ -25,3 +25,5 @@
     - 如何[获取FileSearch的父目录](/posts/directory-parent.md)
   - [读注册表](/posts/reg-read.md)
     - [写注册表](/posts/reg-write.md)
+  - 发行包,os版本/基于注册表的链式安装/.net版本/directx9.0/c++运行库
+  - [c++运行库](/posts/cpp.md)
