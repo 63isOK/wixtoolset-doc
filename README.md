@@ -30,3 +30,4 @@
   - [本地化](/posts/localizable.md)
   - [图标设置](/posts/icon.md)
   - 安装后拉起,暂不需要,wip
+  - [大版本升级](/posts/update.md)
